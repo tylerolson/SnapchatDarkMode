@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Snapchat Dark Mode</string>
+    <string name="toggle_button">Toggle Dark Mode</string>
+    <string name="darkmode_status">Off</string>
+</resources>
