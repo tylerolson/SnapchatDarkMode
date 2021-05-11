@@ -28,7 +28,9 @@ Note: I have tested this on my Android 11 device as you can not theme Snapchat w
 
 ## Download
 
-[Here is the latest release.](https://github.com/TylerOlson/SnapchatDarkMode/releases/tag/1.0)
+[Download from the Google Play Store.](https://play.google.com/store/apps/details?id=dev.tylerolson.snapchatdarkmode)
+
+[Download the latest APK.](https://github.com/TylerOlson/SnapchatDarkMode/releases/tag/1.0)
 
 ## Credits
 
